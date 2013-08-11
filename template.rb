@@ -5,6 +5,7 @@ gem "haml-rails"
 gem "simple_form"
 gem "bcrypt-ruby"
 gem "devise"
+gem "autoprefixer-rails"
 
 # Git: Initialize
 # ==================================================
