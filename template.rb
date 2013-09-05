@@ -13,8 +13,11 @@ gem "bcrypt-ruby"
 # Devise for authentication
 gem "devise"
 
-# Autoprefixer for handling CSS vendor prefixes.
+# Autoprefixer for handling CSS vendor prefixes
 gem "autoprefixer-rails"
+
+# BigDecimal for floating point math
+gem "bigdecimal"
 
 # Git: Initialize
 # ==================================================
